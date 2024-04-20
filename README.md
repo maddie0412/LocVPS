@@ -21,7 +21,7 @@ LocVPS拥有中国香港、美国洛杉矶、日本、韩国、新加坡、德�
 以下为LocVPS香港大浦机房的部分VPS方案及定价：
 
 | 方案          | 内存 | CPU | SSD  | 流量 | 峰值带宽 | 价格     | 购买地址     |
-|-------------|-----|-----|------|-----|-------|--------|
+|-------------|-----|-----|------|-----|-------|--------||--------|
 | HKNTT-Mini-P  | 1GB | 单核 | 30GB | 不限 | 1Mbps  | 37元/月 | [立即购买](https://my.locvps.net/page.aspx?c=referral&u=49381)     |
 | HKNTT-Light-P | 2GB | 单核 | 40GB | 不限 | 2Mbps  | 45元/月 | [立即购买](https://my.locvps.net/page.aspx?c=referral&u=49381)     |
 | HKNTT-Basic-P | 4GB | 双核 | 60GB | 不限 | 3Mbps  | 65元/月 | [立即购买](https://my.locvps.net/page.aspx?c=referral&u=49381)     |
